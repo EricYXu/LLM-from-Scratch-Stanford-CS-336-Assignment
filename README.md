@@ -2,7 +2,7 @@
 
 Eric Yang Xu ©2026. All rights reserved.
 
-My attempt at the an assignment for Stanford's graduate-level course called CS 336: Language Modeling from Scratch.
+My attempt at an assignment for Stanford's graduate-level course called CS 336: Language Modeling from Scratch.
 
 ---
 
