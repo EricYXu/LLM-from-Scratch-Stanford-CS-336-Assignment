@@ -1,4 +1,10 @@
-# CS336 Spring 2025 Assignment 1: Basics
+# CS336 Assignment - LLM from Scratch
+
+Eric Yang Xu ©2026. All rights reserved.
+
+My attempt at the an assignment for Stanford's graduate-level course called CS 336: Language Modeling from Scratch.
+
+---
 
 For a full description of the assignment, see the assignment handout at
 [cs336_assignment1_basics.pdf](./cs336_assignment1_basics.pdf)
